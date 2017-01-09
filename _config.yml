@@ -1,5 +1,5 @@
 # Site settings
-title: 
+title: 菜鸟资源站
 description: 源码视频分享站
 baseurl: "/sell" # the subpath of your site, e.g. /blog
 url: "https://zxm0317.github.io/sell/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
