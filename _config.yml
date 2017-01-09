@@ -1,6 +1,6 @@
 # Site settings
 title: 源码站
-description:源码视频分享站
+description: 源码视频分享站
 baseurl: "/sell" # the subpath of your site, e.g. /blog
 url: "https://zxm0317.github.io/sell/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
