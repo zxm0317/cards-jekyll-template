@@ -1,7 +1,7 @@
 # Site settings
 title: 菜鸟资源站
 description: 源码视频分享站
-baseurl: "/sell" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
