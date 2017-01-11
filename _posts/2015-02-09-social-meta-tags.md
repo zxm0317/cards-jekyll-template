@@ -8,7 +8,7 @@ main-class: 'html'
 color: 'EB7728'
 tags:
 - 前端
-- node.js
+- html5
 categories:
 twitter_text: 'html5视频教程'
 introduction: 'html5视频教程'
