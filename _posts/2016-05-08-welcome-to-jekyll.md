@@ -4,7 +4,7 @@ title: "大神班JAVA第一期"
 date: 2016-05-08 20:35:48
 image: '/assets/img/'
 description: '大神班JAVA第一期就业班项目实战'
-main-class: 'jekyll'
+main-class: 'java'
 color: '#B31917'
 tags:
 - java
