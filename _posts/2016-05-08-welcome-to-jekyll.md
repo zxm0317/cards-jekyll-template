@@ -5,7 +5,7 @@ date: 2016-05-08 20:35:48
 image: '/assets/img/'
 description: '大神班JAVA第一期就业班项目实战'
 main-class: 'java'
-color: '#b31917'
+color: '#B31917'
 tags:
 - java
 - j2ee
