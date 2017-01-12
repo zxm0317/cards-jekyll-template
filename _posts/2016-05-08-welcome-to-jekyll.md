@@ -8,7 +8,7 @@ main-class: 'java'
 color: '#B31917'
 tags:
 - java
-- node.js
+- j2ee
 categories:
 twitter_text: '大神班JAVA第一期就业班项目实战'
 introduction: '大神班JAVA第一期就业班项目实战'
