@@ -1,26 +1,26 @@
 ---
 layout: post
-title: "´óÉñ°àJAVAµÚÒ»ÆÚ"
+title: "å¤§ç¥ç­JAVAç¬¬ä¸€æœŸ"
 date: 2016-05-08 20:35:48
 image: '/assets/img/'
-description: '´óÉñ°àJAVAµÚÒ»ÆÚ¾ÍÒµ°àÏîÄ¿ÊµÕ½'
+description: 'å¤§ç¥ç­JAVAç¬¬ä¸€æœŸå°±ä¸šç­é¡¹ç›®å®æˆ˜'
 main-class: 'java'
 color: '#b31917'
 tags:
 - java
 - node.js
 categories:
-twitter_text: '´óÉñ°àJAVAµÚÒ»ÆÚ¾ÍÒµ°àÏîÄ¿ÊµÕ½'
-introduction: '´óÉñ°àJAVAµÚÒ»ÆÚ¾ÍÒµ°àÏîÄ¿ÊµÕ½'
+twitter_text: 'å¤§ç¥ç­JAVAç¬¬ä¸€æœŸå°±ä¸šç­é¡¹ç›®å®æˆ˜'
+introduction: 'å¤§ç¥ç­JAVAç¬¬ä¸€æœŸå°±ä¸šç­é¡¹ç›®å®æˆ˜'
 ---
 
-## ´óÉñ°àJAVAµÚÒ»ÆÚ
+## å¤§ç¥ç­JAVAç¬¬ä¸€æœŸ
 
->´óÉñ°àJAVAµÚÒ»ÆÚ¾ÍÒµ°àÏîÄ¿ÊµÕ½
-ÄÚÈİÕ¹Ê¾:
+>å¤§ç¥ç­JAVAç¬¬ä¸€æœŸå°±ä¸šç­é¡¹ç›®å®æˆ˜
+å†…å®¹å±•ç¤º:
 
-![×ÊÔ´](http://ojjj16i32.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20170112171946.png)
+![èµ„æº](http://ojjj16i32.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20170112171946.png)
 
->Ãâ·ÑÊÔ¿´ :[µã»÷»ñÈ¡](http://pan.baidu.com/s/1o7QUIiY)
+>å…è´¹è¯•çœ‹ :[ç‚¹å‡»è·å–](http://pan.baidu.com/s/1o7QUIiY)
 
-> È«²¿ÄÚÈİ: [µã»÷»ñÈ¡](http://svip.tzyee.net/list/8nnqs)
+> å…¨éƒ¨å†…å®¹: [ç‚¹å‡»è·å–](http://svip.tzyee.net/list/8nnqs)
