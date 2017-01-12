@@ -1,32 +1,26 @@
 ---
 layout: post
-title: "Welcome to Jekyll"
-date: 2016-05-08 20:34:26
+title: "大神班JAVA第一期"
+date: 2016-05-08 20:35:48
 image: '/assets/img/'
-description: 'Put your description here.'
-main-class: 'jekyll'
-color: '#B31917'
+description: '大神班JAVA第一期就业班项目实战'
+main-class: 'java'
+color: '#b31917'
 tags:
-- jekyll
+- java
+- node.js
 categories:
-twitter_text: 'Put your twitter description here.'
-introduction: 'Put your description here.'
+twitter_text: '大神班JAVA第一期就业班项目实战'
+introduction: '大神班JAVA第一期就业班项目实战'
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+## 大神班JAVA第一期
 
-Jekyll also offers powerful support for code snippets:
+>大神班JAVA第一期就业班项目实战
+内容展示:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+![资源](http://ojjj16i32.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20170112171946.png)
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+>免费试看 :[点击获取](http://pan.baidu.com/s/1o7QUIiY)
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+> 全部内容: [点击获取](http://svip.tzyee.net/list/8nnqs)
